@@ -1,0 +1,37 @@
+# Logs
+shareme_frontend/logs
+shareme_frontend/*.log
+shareme_frontend/npm-debug.log*
+shareme_frontend/yarn-debug.log*
+shareme_frontend/yarn-error.log*
+shareme_frontend/pnpm-debug.log*
+shareme_frontend/lerna-debug.log*
+
+shareme_frontend/node_modules
+shareme_frontend/dist
+shareme_frontend/dist-ssr
+shareme_frontend/*.local
+
+# Editor directories and files
+shareme_frontend/.vscode/*
+shareme_frontend/!.vscode/extensions.json
+shareme_frontend/.idea
+shareme_frontend/.DS_Store
+shareme_frontend/*.suo
+shareme_frontend/*.ntvs*
+shareme_frontend/*.njsproj
+shareme_frontend/*.sln
+shareme_frontend/*.sw?
+
+# Logs
+shareme_backend/logs
+shareme_backend/*.log
+
+# Coverage directory used by tools like istanbul
+shareme_backend/coverage
+
+# Dependency directories
+shareme_backend/node_modules
+
+# Compiled sanity studio
+shareme_backend/dist
