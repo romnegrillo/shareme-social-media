@@ -10,9 +10,19 @@
   },
   "dependencies": {
     "@react-oauth/google": "^0.2.8",
+    "@sanity/client": "^3.4.1",
+    "@sanity/image-url": "^1.0.1",
+    "jwt-decode": "^3.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.4.2"
+    "react-icons": "^4.6.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-masonry-css": "^1.0.16",
+    "react-router-dom": "^6.4.2",
+    "sanity": "^2.33.2",
+    "url": "^0.11.0",
+    "url-parse": "^1.5.10",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",

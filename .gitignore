@@ -1,3 +1,7 @@
+# ===================================================
+# Frontend 
+# ===================================================
+
 # Logs
 shareme_frontend/logs
 shareme_frontend/*.log
@@ -23,6 +27,13 @@ shareme_frontend/*.njsproj
 shareme_frontend/*.sln
 shareme_frontend/*.sw?
 
+shareme_frontend/*.env
+
+
+# ===================================================
+# Backend 
+# ===================================================
+
 # Logs
 shareme_backend/logs
 shareme_backend/*.log
@@ -35,3 +46,5 @@ shareme_backend/node_modules
 
 # Compiled sanity studio
 shareme_backend/dist
+
+
